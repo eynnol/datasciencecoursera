@@ -1,3 +1,3 @@
-##myhashtagislbb
+
 # datasciencecoursera 
-Repo for the data science toolbox course
+Repo for the data science toolbox course created by Lonnye
